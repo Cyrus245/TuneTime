@@ -1,4 +1,4 @@
-# Introducing: TuneTime - Your Text-Based Spotify Playlist Creator!
+<h1 style="color: violet">Introducing: TuneTime - Your Text-Based Spotify Playlist Creator!</h1>
 
 *Step into the world of musical nostalgia with TuneTime, the ultimate text-based Spotify playlist creator. Are you eager
 to revisit the iconic tracks that defined a specific moment in time? Look no further – TuneTime is here to make it
@@ -6,23 +6,25 @@ happen!*
 
 How It Works:
 
-> **Seamless Authentication:** Effortlessly connect to your Spotify account using Spotipy. Our user-friendly
+> **<li>Seamless Authentication:** Effortlessly connect to your Spotify account using Spotipy. Our user-friendly
 > authentication
 > process ensures you're up and running in no time, ready to immerse yourself in the magic of music.
 
-> **Time Travel Made Easy:** Simply input the date you wish to explore, and TuneTime will work its magic. Relive the
+> **<li>Time Travel Made Easy:** Simply input the date you wish to explore, and TuneTime will work its magic. Relive
+> the
 > glory
 > days of the past, from the groovy '60s to the electrifying '80s and beyond.
 
-> **Top Tracks Retrieval:** TuneTime deftly fetches the top tracks from your chosen date, giving you access to the very
+> **<li>Top Tracks Retrieval:** TuneTime deftly fetches the top tracks from your chosen date, giving you access to the
+> very
 > tunes
 > that dominated the airwaves back then.
 
-> **Craft Your Playlist:** Embrace your inner curator! Handpick the tracks that tug at your heartstrings and compile
+> **<li>Craft Your Playlist:** Embrace your inner curator! Handpick the tracks that tug at your heartstrings and compile
 > your
 > personalized playlist with the gems of yesteryears.
 
-> **Listen and Share:** Hit play and let the melodies transport you through time. Share your bespoke playlist with
+> **<li>Listen and Share:** Hit play and let the melodies transport you through time. Share your bespoke playlist with
 > friends
 > and
 > family, inviting them to join in on this nostalgic musical journey.
