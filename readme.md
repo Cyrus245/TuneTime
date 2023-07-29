@@ -1,8 +1,8 @@
-Introducing: TuneTime - Your Text-Based Spotify Playlist Creator!
+# Introducing: TuneTime - Your Text-Based Spotify Playlist Creator!
 
-Step into the world of musical nostalgia with TuneTime, the ultimate text-based Spotify playlist creator. Are you eager
+*Step into the world of musical nostalgia with TuneTime, the ultimate text-based Spotify playlist creator. Are you eager
 to revisit the iconic tracks that defined a specific moment in time? Look no further – TuneTime is here to make it
-happen!
+happen!*
 
 How It Works:
 
